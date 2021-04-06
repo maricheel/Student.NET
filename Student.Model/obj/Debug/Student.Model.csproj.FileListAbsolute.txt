@@ -1,0 +1,10 @@
+C:\Users\dell\source\repos\Student\Student.Model\bin\Debug\Student.Model.dll.config
+C:\Users\dell\source\repos\Student\Student.Model\bin\Debug\Student.Model.dll
+C:\Users\dell\source\repos\Student\Student.Model\bin\Debug\Student.Model.pdb
+C:\Users\dell\source\repos\Student\Student.Model\bin\Debug\Student.Dto.dll
+C:\Users\dell\source\repos\Student\Student.Model\bin\Debug\Student.Dto.pdb
+C:\Users\dell\source\repos\Student\Student.Model\obj\Debug\Student.Model.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\Student\Student.Model\obj\Debug\Student.Model.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Student\Student.Model\obj\Debug\Student.Model.csproj.CopyComplete
+C:\Users\dell\source\repos\Student\Student.Model\obj\Debug\Student.Model.dll
+C:\Users\dell\source\repos\Student\Student.Model\obj\Debug\Student.Model.pdb

@@ -1,0 +1,12 @@
+C:\Users\dell\source\repos\Student\Student.Controleur\bin\Debug\Student.Controleur.dll
+C:\Users\dell\source\repos\Student\Student.Controleur\bin\Debug\Student.Controleur.pdb
+C:\Users\dell\source\repos\Student\Student.Controleur\bin\Debug\Student.Dto.dll
+C:\Users\dell\source\repos\Student\Student.Controleur\bin\Debug\Student.Model.dll
+C:\Users\dell\source\repos\Student\Student.Controleur\bin\Debug\Student.Dto.pdb
+C:\Users\dell\source\repos\Student\Student.Controleur\bin\Debug\Student.Model.pdb
+C:\Users\dell\source\repos\Student\Student.Controleur\bin\Debug\Student.Model.dll.config
+C:\Users\dell\source\repos\Student\Student.Controleur\obj\Debug\Student.Controleur.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\Student\Student.Controleur\obj\Debug\Student.Controleur.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Student\Student.Controleur\obj\Debug\Student.Controleur.csproj.CopyComplete
+C:\Users\dell\source\repos\Student\Student.Controleur\obj\Debug\Student.Controleur.dll
+C:\Users\dell\source\repos\Student\Student.Controleur\obj\Debug\Student.Controleur.pdb

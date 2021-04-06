@@ -1,0 +1,6 @@
+C:\Users\dell\source\repos\Student\Student.Dto\bin\Debug\Student.Dto.dll
+C:\Users\dell\source\repos\Student\Student.Dto\bin\Debug\Student.Dto.pdb
+C:\Users\dell\source\repos\Student\Student.Dto\obj\Debug\Student.Dto.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\Student\Student.Dto\obj\Debug\Student.Dto.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Student\Student.Dto\obj\Debug\Student.Dto.dll
+C:\Users\dell\source\repos\Student\Student.Dto\obj\Debug\Student.Dto.pdb
